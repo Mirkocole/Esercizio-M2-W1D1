@@ -4,7 +4,7 @@
 
 - Cos'è un Algoritmo?
 - Cos'è una Variabile
-- "Undefined" e "Null" sonon la stessa cosa?
+- "Undefined" e "Null" sono la stessa cosa?
 
 # L'Algoritmo..
 
