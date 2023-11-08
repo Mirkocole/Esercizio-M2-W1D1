@@ -22,7 +22,7 @@ Questo è uno degli esempi più semplici per poter spiegare cos'è un algoritmo,
 
 Seguendo l'esempio (citato prima nella spiegazione dell'algoritmo) riguardo il libretto di istruzioni del mobile Ikea, le variabili le identifichiamo come il materiale a nostra disposizione che ci permettono di montare il mobile, sono quindi, elementi essenziali senza il quale non potremmo risolvere il problema.
 Per fare un esempio ancora più esaustivo potremmo far riferimento ai semplici problemi di geometria delle scuole elementari, quando ci veniva richiesto di calcolare l'area di un rettangolo. 
-Per la risoluzione di tale problema ci venivano fornite delle "informazioni" o "dati" del rettangolo per poter applicare la "formula" (cio'è l'algoritmo), ecco, tali dati solo le variabili.
+Per la risoluzione di tale problema ci venivano fornite delle "informazioni" o "dati" del rettangolo per poter applicare la "formula" (cio'è l'algoritmo). Ecco, tali dati solo le variabili.
 In informatica questi dati possono essere di tipi diversi: 
 - Stringhe
 - Numeri interi
@@ -32,7 +32,7 @@ In informatica questi dati possono essere di tipi diversi:
 - Oggetti / Classi
 
 Li definiamo contenitori proprio per il fatto che possono contenere informazioni di vario tipo ed inoltre hanno la facoltà di cambiare il loro valore/contenuto nel corso delle istruzioni.
-In alcuni linguaggi, però, questi contenitori sono forzatamente "Tipizzati" (Es. Java), cio'è viene assegnato in fase di creazione il tipo di contenuto che andrà a amemorizzare. 
+In alcuni linguaggi, però, questi contenitori sono forzatamente "Tipizzati" (Es. Java), cio'è viene assegnato in fase di creazione il tipo di contenuto che andrà a memorizzare. 
 Es:
 ```sh
 String name;
